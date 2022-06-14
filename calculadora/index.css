@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(37, 150, 216);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.centerDiv{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.boton{
+    background-color: orange;
+    border: 3px solid orangered;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 7px 7px 7px 7px;
+    margin: 5px 5px 5px 5px;
+}
+
+.resultado{
+    color: orange;
+    padding-left:230px;
+    font-size: 45px;
+}
+
+.inputs{
+    margin-left: 120px
+}
+
+.input{
+    background-color:beige;
+    width:  150px;
+    height: 40px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.title{
+    color: orange;
+    font-size: 40px;
+}
+
+.resultado2{
+    padding-left: 100px
+}
