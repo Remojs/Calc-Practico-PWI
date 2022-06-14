@@ -2,6 +2,6 @@
 Trabajo practico
 ## INTEGRANTES 
 
-*** Thiago Zambonini ***
+* **Thiago Zambonini**
 
-###fin de la lista, gracias por ver.
+fin de la lista, gracias por ver.
