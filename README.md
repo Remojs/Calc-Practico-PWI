@@ -1,5 +1,6 @@
 # Calculadora-TP-Clase12
-Trabajo practico
+Trabajo practico clase 12 - Curso de programacion
+
 ## INTEGRANTES 
 
 * **Thiago Zambonini**
