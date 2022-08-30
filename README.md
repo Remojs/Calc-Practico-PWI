@@ -1,9 +1,8 @@
 # Calculadora-TP-Clase12
-Trabajo practico clase 12 - Curso de programacion
+Trabajo practico N°1 (Curso de Programacion Web Inicial) - HTML CSS JS
 
 ## INTEGRANTES 
 
 * **Thiago Zambonini**
-* **Alejandro Cisak**
 
 fin de la lista, gracias por ver.
