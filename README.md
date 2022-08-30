@@ -1,4 +1,4 @@
-# Calculadora-TP-Clase12
+# Calculadora-Practico-PWI
 Trabajo practico N°1 (Curso de Programacion Web Inicial) - HTML CSS JS
 
 ## INTEGRANTES 
